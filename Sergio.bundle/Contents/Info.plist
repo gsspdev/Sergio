@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.gssp-keyboards</string>
+	<key>CFBundleName</key>
+	<string>Sergio</string>
+	<key>CFBundleVersion</key>
+	<string>0.2</string>
+	<key>KLInfo_Sergio</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.gssp-keyboards.sergio</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Sergio-Minimal</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.gssp-keyboards.sergio-minimal</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Sergio-Simple</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.gssp-keyboards.sergio-simple</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Sergio-UH</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<true/>
+		<key>TISIconIsTemplate</key>
+		<true/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.gssp-keyboards.sergio-uh</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+</dict>
+</plist>
