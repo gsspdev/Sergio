@@ -52,14 +52,14 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
-	<key>KLInfo_Sergio-UH</key>
+	<key>KLInfo_Sergio-UN</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<true/>
 		<key>TISIconIsTemplate</key>
 		<true/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.gssp-keyboards.sergio-uh</string>
+		<string>org.sil.ukelele.keyboardlayout.gssp-keyboards.sergio-un</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
