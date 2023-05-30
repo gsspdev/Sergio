@@ -35,3 +35,5 @@
 #### To switch quickly between layouts you can press Command+Space or Command+Option+Space. This hotkey combination conflicts with the default settings for showing Spotlight. Open System Preferences > Keyboard > Shortcuts and ensure the Spotlight shorcut is different from the Keyboard and Input Sources shortcuts.
 
 #### Note: Currently this has only been tested to work on MacOS Ventura, and should also work with other recent versions of MacOS. Support for additional systems, and a deeper explanation and analysis of the thinking behind the layout and variations are planned for future updates.
+
+#### Note: Keyboard shortcuts are unaffected by the alternative layout
