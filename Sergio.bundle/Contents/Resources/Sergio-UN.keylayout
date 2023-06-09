@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 359 on 2023-05-28 at 17:02 (GMT)-->
-<!--Last edited by Ukelele version 359 on 2023-05-30 at 19:40 (GMT)-->
-<keyboard group="126" id="-17035" name="Sergio-Minimal" maxout="1">
+<!--Last edited by Ukelele version 359 on 2023-05-30 at 00:23 (GMT)-->
+<keyboard group="126" id="-15551" name="Sergio-UN" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -49,7 +49,7 @@
             <key code="6" output="z"/>
             <key code="7" output="x"/>
             <key code="8" output="c"/>
-            <key code="9" output="v"/>
+            <key code="9" output="t"/>
             <key code="10" output=""/>
             <key code="11" output="b"/>
             <key code="12" output="q"/>
@@ -57,7 +57,7 @@
             <key code="14" output="d"/>
             <key code="15" output="f"/>
             <key code="16" output="y"/>
-            <key code="17" output="t"/>
+            <key code="17" output="v"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
             <key code="20" output="3"/>
@@ -71,21 +71,21 @@
             <key code="28" output="8"/>
             <key code="29" output="0"/>
             <key code="30" output="]"/>
-            <key code="31" output="o"/>
-            <key code="32" output="u"/>
+            <key code="31" output="l"/>
+            <key code="32" output="j"/>
             <key code="33" output="["/>
-            <key code="34" output="i"/>
-            <key code="35" output="p"/>
+            <key code="34" output="k"/>
+            <key code="35" output=";"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="l"/>
-            <key code="38" output="j"/>
+            <key code="37" output="o"/>
+            <key code="38" output="n"/>
             <key code="39" output="&#x0027;"/>
-            <key code="40" output="k"/>
-            <key code="41" output=";"/>
+            <key code="40" output="i"/>
+            <key code="41" output="p"/>
             <key code="42" output="\"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
-            <key code="45" output="n"/>
+            <key code="45" output="u"/>
             <key code="46" output="m"/>
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
@@ -155,7 +155,7 @@
             <key code="6" output="Z"/>
             <key code="7" output="X"/>
             <key code="8" output="C"/>
-            <key code="9" output="V"/>
+            <key code="9" output="T"/>
             <key code="10" output=""/>
             <key code="11" output="B"/>
             <key code="12" output="Q"/>
@@ -163,7 +163,7 @@
             <key code="14" output="D"/>
             <key code="15" output="F"/>
             <key code="16" output="Y"/>
-            <key code="17" output="T"/>
+            <key code="17" output="V"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
             <key code="20" output="#"/>
@@ -177,21 +177,21 @@
             <key code="28" output="*"/>
             <key code="29" output=")"/>
             <key code="30" output="}"/>
-            <key code="31" output="O"/>
-            <key code="32" output="U"/>
+            <key code="31" output="L"/>
+            <key code="32" output="J"/>
             <key code="33" output="{"/>
-            <key code="34" output="I"/>
-            <key code="35" output="P"/>
+            <key code="34" output="K"/>
+            <key code="35" output=":"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="L"/>
-            <key code="38" output="J"/>
+            <key code="37" output="O"/>
+            <key code="38" output="N"/>
             <key code="39" output="&#x0022;"/>
-            <key code="40" output="K"/>
-            <key code="41" output=":"/>
+            <key code="40" output="I"/>
+            <key code="41" output="P"/>
             <key code="42" output="|"/>
             <key code="43" output="&#x003C;"/>
             <key code="44" output="?"/>
-            <key code="45" output="N"/>
+            <key code="45" output="U"/>
             <key code="46" output="M"/>
             <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
