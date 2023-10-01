@@ -20,7 +20,7 @@
 
 ### Copy the layout(s) to a Keyboard Layouts directory. Choose one of the following options:
 
-#### Option 1 (recommended). Copy Workman.bundle to /Library/Keyboard Layouts/. It requires administrator rights but this enables the layout system-wide, including the OS X login screen.
+#### Option 1 (recommended). Copy Sergio.bundle to /Library/Keyboard Layouts/. It requires administrator rights but this enables the layout system-wide, including the OS X login screen.
 
 #### To enable input options on the login window, check the option in System Preferences > Users & Groups > Login Options > Show Input menu in login window.
 
